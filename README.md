@@ -116,6 +116,7 @@ The remaining balance fixes were posted on [CNAR][url:CNAR] KSP forum topic as f
 [kspf:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
 [url:MITLicense]: https://github.com/harveyt/KPlanes/blob/main/LICENSE
 [url:ModuleManager]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-421-august-1st-2021-locked-inside-edition/
+[url:CKAN]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-ckan-the-comprehensive-kerbal-archive-network-v1280-dyson/
 [url:BDB]: https://forum.kerbalspaceprogram.com/index.php?/topic/122020-1123-bluedog-design-bureau-stockalike-saturn-apollo-and-more-v1110-%D0%B2%D0%BD%D0%B5-22oct2022/
 [url:HoS]: https://forum.kerbalspaceprogram.com/index.php?/topic/192880-contract-pack-history-of-spaceflight-v10/
 [url:SSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/206109-the-skyhawk-science-system-a-new-realistic-tech-tree-for-ksp-now-including-kerbalism-support-v111-for-science-81122/
