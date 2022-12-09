@@ -54,9 +54,9 @@ To build a replica of the first WAC Corporal:
 
 * Starting from the top with a command/nose cone, there are three science variants:
 
-** Capella Control Unit with Thermometer Experiment
-** Capella Control Unit with Barometer Experiment
-** Capella Control Unit with Goo Experiment
+    * Capella Control Unit with Thermometer Experiment
+    * Capella Control Unit with Barometer Experiment
+    * Capella Control Unit with Goo Experiment
 
 * Capella Inline Parachute.
 
@@ -74,12 +74,12 @@ To build a replica of the first WAC Corporal:
 
 * Staging:
 
-** Stage 0: The Tiny Tim and any launch clamps.
+    * Stage 0: The Tiny Tim and any launch clamps.
 
-** Stage 1: The Tiny Tim Decoupler *and* the Capella Engine. Historically the Capella Engine was
+    * Stage 1: The Tiny Tim Decoupler *and* the Capella Engine. Historically the Capella Engine was
 actually in Stage 0, you can try but things may explode.
 
-** Stage 2: The Capella Inline Parachute.
+    * Stage 2: The Capella Inline Parachute.
 
 In stock if you launch straight up it is highly likely that the parachutes will be destroyed on
 re-entry. Even deploying parachutes near apogee at around 66km. Launch to a lower altitude, launch
