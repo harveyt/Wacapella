@@ -48,6 +48,44 @@ Suggested Dependencies:
 * [Skyhawk Science System][url:SSS] - which is a very good "Probes-Before-Crew" style tech tree, and
   works great with BDB and History of Spaceflight.
 
+## Flight Instructions
+
+To build a replica of the first WAC Corporal, see the [Blue Prints][url:BluePrints].
+
+* Starting from the top with a command/nose cone, there are three science variants:
+
+    * Capella Control Unit with Thermometer Experiment
+    * Capella Control Unit with Barometer Experiment
+    * Capella Control Unit with Goo Experiment
+
+* Capella Inline Parachute.
+
+* Capella Engine. Disable the shroud.
+
+* Capella Fins x 3.
+
+* Tiny Tim Decoupler.
+
+* Tiny Tim. The first stage SRB.
+
+* Tiny Tim Fins x 3.
+
+* Colours: Most parts have either a black and white or black and yellow colour variants.
+
+* Staging:
+
+    * Stage 0: The Tiny Tim and any launch clamps.
+
+    * Stage 1: The Tiny Tim Decoupler *and* the Capella Engine. Historically the Capella Engine was
+actually in Stage 0, you can try but things may explode.
+
+    * Stage 2: The Capella Inline Parachute.
+
+In stock if you launch straight up it is highly likely that the parachutes will be destroyed on
+re-entry. Even deploying parachutes near apogee at around 66km. Launch to a lower altitude, launch
+more at an angle, don't use parachutes and use the provided Communotron 4-S to transmit
+science. Experiment like they did historically to find the right way to get back safely.
+
 ## License
 
 All content is [MIT][url:MITLicense] licensed.
@@ -108,7 +146,8 @@ The remaining balance fixes were posted on [CNAR][url:CNAR] KSP forum topic as f
 [kspf:610yesnolovely]: https://forum.kerbalspaceprogram.com/index.php?/profile/211485-610yesnolovely/
 [url:WACCorporal]: https://en.wikipedia.org/wiki/WAC_Corporal
 [url:Wacapella]: https://github.com/harveyt/Wacapella
-[url:WacapellaKSPF]: XXX
+[url:WacapellaKSPF]: https://forum.kerbalspaceprogram.com/index.php?/topic/210985-112x-wacapella-early-sounding-rockets-001-9th-dec-2022/
+[url:BluePrints]: https://github.com/harveyt/Wacapella/blob/main/Artwork/Wacapella_1.png?raw=true
 [url:CNAR]:https://forum.kerbalspaceprogram.com/index.php?/topic/188554-19/
 [url:Taerobee]: https://forum.kerbalspaceprogram.com/index.php?/topic/205846-112/
 [kspf:DylanSemrau]: https://forum.kerbalspaceprogram.com/index.php?/profile/188452-dylansemrau/
