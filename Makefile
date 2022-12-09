@@ -22,10 +22,14 @@ VER_SHA		= $(word 5,$(VER))
 GIT_TAG		= $(VER_MAJOR).$(VER_MINOR).$(VER_PATCH)
 PKG_ZIP		= Wacapella-$(GIT_TAG).zip
 
-build:
-	true
+build: FORCE
+	cp LICENSE $(DEST)
+	cp README.md $(DEST)
 
-# netkan.exe --verbose Wacapella.netkan
+FORCE:
+
+check: 
+	netkan.exe --verbose Wacapella.netkan
 
 version:
 	@echo VER_GIT=$(VER_GIT) \
@@ -47,7 +51,7 @@ test: build
 package: build
 	find GameData -name '*~' -print | xargs rm -f
 	rm -f $(BUILD)/$(PKG_ZIP)
-	cd $(BUILD); zip $(PKG_ZIP) -r GameData
+	zip $(BUILD)/$(PKG_ZIP) -r GameData
 
 CHANGES	= Release $(GIT_TAG)
 
