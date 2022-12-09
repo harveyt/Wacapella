@@ -97,10 +97,10 @@ Still permission to have something using them was obtained from the owners:
 
 The remaining balance fixes were posted on [CNAR][url:CNAR] KSP forum topic as follows:
 
-* [OrdinaryKerman][kspf:OrdinaryKerman] [Fix Engine to have better bottom node for launch pads][url:FixEngine]
-* [Beetlecat][kspf:Beetlecat] [Fix Fins to actually attach properly][url:FixFins]
-* [Gordon Dry][kspf:GordonDry] [Fix CapellaExperiment2 to be pressure (not temperature)][url:FixCapellaExp]
-* [DaveyJ576][kspf:DaveyJ576] [Fix experiments to have a bit more EC][url:FixExpEC]
+* [OrdinaryKerman][kspf:OrdinaryKerman] posted: [Fix Engine to have better bottom node for launch pads][url:FixEngine]
+* [Beetlecat][kspf:Beetlecat] posted: [Fix Fins to actually attach properly][url:FixFins]
+* [Gordon Dry][kspf:GordonDry] posted: [Fix CapellaExperiment2 to be pressure (not temperature)][url:FixCapellaExp]
+* [DaveyJ576][kspf:DaveyJ576] posted: [Fix experiments to have a bit more EC][url:FixExpEC]
 
 [kspf:610yesnolovely]: https://forum.kerbalspaceprogram.com/index.php?/profile/211485-610yesnolovely/
 [url:WACCorporal]: https://en.wikipedia.org/wiki/WAC_Corporal
