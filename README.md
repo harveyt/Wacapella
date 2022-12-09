@@ -50,7 +50,7 @@ Suggested Dependencies:
 
 ## Flight Instructions
 
-To build a replica of the first WAC Corporal:
+To build a replica of the first WAC Corporal, see the [Blue Prints][url:BluePrints].
 
 * Starting from the top with a command/nose cone, there are three science variants:
 
@@ -146,7 +146,8 @@ The remaining balance fixes were posted on [CNAR][url:CNAR] KSP forum topic as f
 [kspf:610yesnolovely]: https://forum.kerbalspaceprogram.com/index.php?/profile/211485-610yesnolovely/
 [url:WACCorporal]: https://en.wikipedia.org/wiki/WAC_Corporal
 [url:Wacapella]: https://github.com/harveyt/Wacapella
-[url:WacapellaKSPF]: XXX
+[url:WacapellaKSPF]: https://forum.kerbalspaceprogram.com/index.php?/topic/210985-112x-wacapella-early-sounding-rockets-001-9th-dec-2022/
+[url:BluePrints]: https://github.com/harveyt/Wacapella/blob/main/Artwork/Wacapella_1.png?raw=true
 [url:CNAR]:https://forum.kerbalspaceprogram.com/index.php?/topic/188554-19/
 [url:Taerobee]: https://forum.kerbalspaceprogram.com/index.php?/topic/205846-112/
 [kspf:DylanSemrau]: https://forum.kerbalspaceprogram.com/index.php?/profile/188452-dylansemrau/
