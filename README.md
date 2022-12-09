@@ -36,9 +36,12 @@ Required Dependencies:
 * [CNAR][url:CNAR]
 * [Taerobee][url:Taerobee]
 
-Recommend Dependencies:
+Recommended Dependencies:
 
 * [BDB][url:BDB] - which will provide some other early US rocket systems.
+
+Suggested Dependencies:
+
 * [History of Spaceflight][url:HoS] - which provides a large set of contracts based on history. I'd
   recommend the "Pocket Edition" unless you want to faithfully recreate every single launch and
   failure.
