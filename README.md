@@ -34,6 +34,9 @@ Required Dependencies:
 
 * [ModuleManager][url:ModuleManager]
 * [CNAR][url:CNAR]
+    * **NOTE**: This mod is only compatible up to 1.8.1, but it works fine in 1.12.x. Install the
+    latest version (1.0.2) by explicitly picking that version in CKAN, or less  allow mods
+    from older versions of KSP by using "Settings -> Compatible game versions".
 * [Taerobee][url:Taerobee]
 
 Recommended Dependencies:
