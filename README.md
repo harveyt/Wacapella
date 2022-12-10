@@ -30,6 +30,11 @@ I highly recommend installing mods using [CKAN][url:CKAN] as it will correctly a
 dependencies, however for those who like a more tedious life you can manually install them and
 possibly get less of my attention if there are issues.
 
+Alternative installation:
+
+* [Install from SpaceDock][url:WacapellaSpaceDock]
+* [Install from GitHub][url:WacapellaGitHub]
+
 Required Dependencies:
 
 * [ModuleManager][url:ModuleManager]
@@ -151,6 +156,8 @@ The remaining balance fixes were posted on [CNAR][url:CNAR] KSP forum topic as f
 [kspf:610yesnolovely]: https://forum.kerbalspaceprogram.com/index.php?/profile/211485-610yesnolovely/
 [url:WACCorporal]: https://en.wikipedia.org/wiki/WAC_Corporal
 [url:Wacapella]: https://github.com/harveyt/Wacapella
+[url:WacapellaGitHub]: https://github.com/harveyt/Wacapella/releases
+[url:WacapellaSpaceDock]: https://spacedock.info/mod/3162/Wacapella
 [url:WacapellaKSPF]: https://forum.kerbalspaceprogram.com/index.php?/topic/210985-112x-wacapella-early-sounding-rockets-001-9th-dec-2022/
 [url:BluePrints]: https://github.com/harveyt/Wacapella/blob/main/Artwork/Wacapella_1.png?raw=true
 [url:CNAR]:https://forum.kerbalspaceprogram.com/index.php?/topic/188554-19/
