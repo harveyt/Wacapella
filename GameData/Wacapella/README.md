@@ -5,10 +5,10 @@ By: [610yeslovely][kspf:610yesnolovely]
 Wacapella provides a very early stockalike replica of the [WAC Corporal][url:WACCorporal] sounding
 rocket first launched in 1945.
 
-The parts are duplicated and/or modified parts from [CNAR][url:CNAR] and [Taerobee][url:Taerobee]
-and available in the start node. There are three different science payloads as nose cones, so
-several launches are required to gain science, and so are very useful for starting more realistic
-based careers.
+The parts are created using only ModuleManager by duplicating and/or modifying existing parts from
+[CNAR][url:CNAR] and [Taerobee][url:Taerobee] and available in the start node. There are three
+different science payloads as nose cones, so several launches are required to gain science, and so
+are very useful for starting more realistic based careers.
 
 The name is derived from WAC (probably stood for Without Attitude Control) and Capella, which is the
 Kerbalized name in [CNAR][url:CNAR] for the Corporal rocket system used on the Bumper replica.
@@ -34,6 +34,11 @@ Required Dependencies:
 
 * [ModuleManager][url:ModuleManager]
 * [CNAR][url:CNAR]
+    * **NOTE**: This mod is only compatible up to 1.8.1, but it works fine in 1.12.x. Install the
+    latest version (1.0.2) by explicitly picking that version in CKAN, or the less recommended
+    option is to allow all mods from versions of KSP from 1.8 onwards by using "Settings ->
+    Compatible game versions". This is less safe because some older mods may not work and you may
+    accidentally try to install these.
 * [Taerobee][url:Taerobee]
 
 Recommended Dependencies:

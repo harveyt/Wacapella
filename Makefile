@@ -56,6 +56,8 @@ package: build
 CHANGES	= Release $(GIT_TAG)
 
 github-release:
+	git push harveyt
+	git push --tags harveyt
 	gh auth status
 	gh release create $(GIT_TAG) --title "$(GIT_TAG)" --notes "$(CHANGES)"
 	gh release upload $(GIT_TAG) $(BUILD)/$(PKG_ZIP)
