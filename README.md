@@ -98,7 +98,7 @@ science. Experiment like they did historically to find the right way to get back
 
 ## Changes
 
-### 1.0.3 Release - First working release (1st April 2023)
+### 1.0.4 Release - First working release (1st April 2023)
 
 Fixes:
 
