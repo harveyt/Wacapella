@@ -96,6 +96,25 @@ re-entry. Even deploying parachutes near apogee at around 66km. Launch to a lowe
 more at an angle, don't use parachutes and use the provided Communotron 4-S to transmit
 science. Experiment like they did historically to find the right way to get back safely.
 
+## Changes
+
+### 1.0.3 Release - First working release (10th Dec 2022)
+
+Adds:
+
+- Capella Engine: tweaks and balance so it can reach just under 70km in stock and 40km in KSRSS.
+- Capella Nose Cone Experiments 1, 2, 3: tweaks and balance so they are probes and work correctly.
+- Capella Inline Parachute: copied, rescaled and tweaked version from Taerobee, but does not decouple.
+- Capella Fins: copied, rescaled from Taerobee.
+- Tiny Tim Decoupler: copied, rescaled from Taerobee.
+- Tiny Tim: SRB copied, rescaled and tweaked from Taerobee.
+- Tiny Tim Fins: copied, rescaled from Taerobee.
+- Communotron 4-S: copied, rescaled and tweaked from Stock 16-S, suitable for Capella science
+  transmission, very short range, very low power, very slow.
+- Communotron 8-S: copied, rescaled and tweaked from Stock 16-S, suitable for Capella science
+  transmission, short range, low power, slow, but twice the size.
+- Alternate yellow/black or white/black colour schemes for most parts for historical recreations.
+
 ## License
 
 All content is [MIT][url:MITLicense] licensed.

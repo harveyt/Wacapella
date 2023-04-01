@@ -55,6 +55,7 @@ test: build
 
 package: build
 	find GameData -name '*~' -print | xargs rm -f
+	mkdir -p $(BUILD)
 	rm -f $(BUILD)/$(PKG_ZIP)
 	zip $(BUILD)/$(PKG_ZIP) -r GameData
 
