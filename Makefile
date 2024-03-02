@@ -8,7 +8,7 @@ ROOT		= .
 ART		= $(ROOT)/Artwork
 RELPATH		= GameData/Wacapella
 DEST		= $(ROOT)/$(RELPATH)
-TEST_GAME	= /mnt/c/Games/KSP-Test
+TEST_GAME	= /mnt/d/Games/KSP/KSRSS
 
 KSP_VER		= 1.12.4
 
@@ -28,6 +28,7 @@ SD_USER		= 610yesnolovely
 SD_MODID	= 3162
 
 build: FORCE
+	find GameData -name '*~' -print | xargs rm -f
 	cp LICENSE $(DEST)
 	cp README.md $(DEST)
 
@@ -54,7 +55,6 @@ test: build
 	cp -a $(DEST) $(TEST_GAME)/`dirname $(RELPATH)`
 
 package: build
-	find GameData -name '*~' -print | xargs rm -f
 	mkdir -p $(BUILD)
 	rm -f $(BUILD)/$(PKG_ZIP)
 	zip $(BUILD)/$(PKG_ZIP) -r GameData

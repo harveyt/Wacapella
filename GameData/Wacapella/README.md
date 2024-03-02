@@ -98,7 +98,14 @@ science. Experiment like they did historically to find the right way to get back
 
 ## Changes
 
-### 1.0.3 Release - First working release (1st April 2023)
+### 1.0.5 Release - First working release (19th Feb 2024)
+
+Adds:
+
+- Very very small kOS processor for each Capella Nose Cone, to allow for very basic programs and/or
+  simulate control via radio.
+
+### 1.0.4 Release - First working release (1st April 2023)
 
 Fixes:
 

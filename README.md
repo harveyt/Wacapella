@@ -98,7 +98,7 @@ science. Experiment like they did historically to find the right way to get back
 
 ## Changes
 
-### 1.0.5 Release - First working release (19th Feb 2024)
+### 1.0.5 Release - kOS Support (19th Feb 2024)
 
 Adds:
 
